@@ -52,8 +52,6 @@ Slain biters leave behind decaying biomass, which can be turned into food, fuel 
 
 If progression feels too challenging or not challenging enough, the mod settings let you adjust the difficulty of the starting conditions and overall gameplay independently.
 
-[Difficulty settings screenshot]
-
 ## What's next?
 
 This release focuses on reimagining survival on Nauvis. The other planets retain their familiar Space Age progression for now.
@@ -128,8 +126,6 @@ https://github.com/user-attachments/assets/70a125fb-04ef-46bf-ba10-3d6a59928f6f
 Убитые кусаки оставляют разлагающуюся биомассу. Из неё можно производить пищу, топливные брикеты и термозащитную пасту. Паста временно защищает отдельные постройки, а биореактор позволяет получать электроэнергию из органического топлива.
 
 Если развитие покажется чересчур или недостаточно сложным, в настройках мода можно отдельно выбрать сложность стартовых условий и общую сложность игры.
-
-[скриншот выбора уровней сложности]
 
 ## Что дальше?
 
